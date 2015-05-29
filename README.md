@@ -1,0 +1,1 @@
+# puppet-vagrant-boxes
