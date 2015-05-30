@@ -10,11 +10,10 @@ Build fast vagrant-base-boxes for further usage.
 
 ## Build
 ```
-$ cd /path/git/repository
 $ veewee vbox build debian-7.6-x86_64
 ```
 
 ## Export
 ```
-$ veewee export debian-7.6-x86_64
+$ veewee vbox export debian-7.6-x86_64
 ```
