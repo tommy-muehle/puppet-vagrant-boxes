@@ -1,5 +1,7 @@
 # puppet-vagrant-boxes
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 Build fast vagrant-base-boxes for further usage.
 
 ## Requirements
